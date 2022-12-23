@@ -12,7 +12,7 @@ UC_x5XG1OV2P6uZZ5FSM9Ttw,...
 UCJFp8uSYCjXOMnkUyb3CQ3Q,...
 ```
 
-- Replace `YOUTUBE_API_KEY` in the `main.py` file
+- Replace `YOUTUBE_API_KEY` in the `main.py` file with your own's.
 - Run the script
 
 ```sh
