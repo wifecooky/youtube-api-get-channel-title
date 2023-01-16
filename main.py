@@ -36,7 +36,7 @@ if __name__ == '__main__':
         if count == 1:
             continue
 
-        channel_id = line.split(',')[1]
+        channel_id = line.split(',')[0]
         if channel_id == '':
             continue
 
